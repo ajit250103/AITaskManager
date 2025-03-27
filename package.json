@@ -1,0 +1,11 @@
+{
+  "name": "aitaskmanager-master",
+  "version": "1.0.0",
+  "description": "## 📌 Overview This is a **Next.js** project built with **React, TypeScript, and Clerk authentication**. It includes: - ✅ **Server-side and Client-side rendering** - ✅ **Authentication with Clerk** - ✅ **API Integration** - ✅ **Responsive UI with Tailwind CSS**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
